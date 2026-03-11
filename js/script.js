@@ -76,7 +76,7 @@ function setupSurpriseButton() {
                             </h2>
                             <p style="font-size: 1.4rem; line-height: 1.6; margin-bottom: 2rem; color: #5a3a44;">
                                 ¡Mi Amorcito!
-                                No sé cómo lo haces, pero cambias mis dias con esos abrazos que me das con tanto cariño. Eres esa persona que me entiende con solo una mirada y con la que puedo ser yo mismo, sin filtros. Gracias amor gracias, por cada comento compartido, por los abrazos que lo curan todo y por las salidas aquellos compartimiento juntos.<br>
+                                No sé cómo lo haces, pero cambias mis dias con esos abrazos que me das con tanto cariño. Eres esa persona que me entiende con solo una mirada y con la que puedo ser yo mismo, sin filtros. Gracias amor gracias, por cada momento compartido, por los abrazos que lo curan todo y por las salidas aquellos compartimiento juntos.<br>
                                 Contigo, la vida es mucho más bonita. Prometo seguir a tu lado, apoyarte en todo lo que venga, hoy y siempre te amo infinitamente Janethe. <br>
                             </p>
                             <button id="closeBtn" style="background: #a66378; color: white; border: none; padding: 1rem 2.5rem; border-radius: 50px; font-size: 1.2rem; cursor: pointer; transition: all 0.3s ease;">
